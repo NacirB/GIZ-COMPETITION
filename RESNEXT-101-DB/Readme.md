@@ -12,6 +12,7 @@
 # 7. run GIZ-COMPETITION/RESNEXT-101-DB/FOLD_9.ipynb
 # 8. run GIZ-COMPETITION/RESNEXT-101-DB/FOLD_6.ipynb
 # 9. run GIZ-COMPETITION/RESNEXT-101-DB/FOLD_7_8.ipynb
+Then you'll get 10 fold model weights in the folder created in  SPECTOGRAM_Generation___Paths.ipynb  | /content/drive/MyDrive/Giz_NLP_AUDIO/Resnext101
 # 10. run GIZ-COMPETITION/RESNEXT-101-DB/INFERENCE.ipynb
 ```
 
