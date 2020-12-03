@@ -28,7 +28,7 @@ Rank : 2/255
 |Azer KSOURI |[@ASSAZZIN](https://zindi.africa/users/ASSAZZIN)      |[@Az-Ks](https://github.com/Az-Ks)        |
 |Ahmed Attia     |[@ahmedattia](https://zindi.africa/users/ahmedattia)  |[@ahmedattia](https://github.com/ahmedattia143)|
 |Nacir Bouazizi |[@patata](https://zindi.africa/users/patata)        |[@NacirB](https://github.com/NacirB)  |
-|Mokhtar Mami |[@patata](https://zindi.africa/users/mo5mami)        |[@Mo5mami](https://github.com/Mo5mami)  |
+|Mokhtar Mami |[@mo5mami](https://zindi.africa/users/mo5mami)        |[@Mo5mami](https://github.com/Mo5mami)  |
 
 
 </div>
